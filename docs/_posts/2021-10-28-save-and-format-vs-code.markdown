@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mettre en forme en sauvegardant avec VS Code et HTML"
+title:  "Mettre en forme du code HTML en sauvegardant avec VS Code"
 date:   2021-11-01 01:00:00 +0200
 categories: vs-code formater prettier sauvegarder
 ---
