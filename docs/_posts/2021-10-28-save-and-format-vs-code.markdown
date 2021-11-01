@@ -19,7 +19,7 @@ Pour configurer VS Code, suivez les étapes ci-dessous :
 - Rendez-vous dans les paramètres de l'extension (cliquez sur le bouton engrenage à droite des boutons d'installation et d'activation de l'extension, puis cliquez sur "paramètres d'extension")
 - Une fois dans les paramètres, faites un "Ctrl + f" et tappez "On save" dans le champ de recherche
 - Cliquez, dans la rubrique "Editor: Code Actions On Save", sur le lien "Modifier dans settings.json", vous aurez accès au fichier de configuration de VS Code
-- Ajouter ces lignes au fichier de configuration : 
+- Ajoutez ces lignes au fichier de configuration : 
 
 ```json
 "[html]":{
