@@ -72,3 +72,5 @@ Voilà, normalement vous devez avoir un code formaté comme dans l'exemple ci-de
 Si maintenant, vous faites un "Ctrl + s", votre code HTML se formatera automatiquement.
 
 N'hésitez pas à me laisser un petit commentaire si ça ne fonctionne pas ou que vous bloquez quelque part, merci d'avance !
+
+{% include disqus.html %}
