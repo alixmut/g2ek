@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=TzkG9gv3OG8
 o/
 
 {% if page.comments %} \<div id="disqus\_thread">\</div>  
-\<script>  
+\<script type="text/javascript">  
    /\*\*  
    \*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.  
    \*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    \*/  
